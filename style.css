@@ -79,6 +79,7 @@ body {
 	line-height: 22px;
 	padding: 13px 34px;
 	transition: all .2s ease-in-out;
+	box-shadow: 4px 4px 10px 0 rgba(4, 30, 94, 0.2);
 }
 
 .intro_button_58f7bdc3:hover {
